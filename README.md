@@ -35,9 +35,19 @@ open index.html in browser
 🧠 Learning Purpose
 This project is part of my web development learning journey and helps strengthen DOM manipulation skills using vanilla JavaScript.
 
+## 📁 Folder Structure
 
-📜 License
-This project is open source and available under the MIT License.
+tip-calculator/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ └── preview.png
+└── README.md
+
+
+🔖 License
+This project is licensed under the MIT License.
 
 👤 Created by @hrveekshith
 
